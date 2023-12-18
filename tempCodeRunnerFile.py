@@ -1,0 +1,1 @@
+font = pygame.font.Font(None, 30)
